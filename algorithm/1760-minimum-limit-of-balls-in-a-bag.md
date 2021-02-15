@@ -55,7 +55,7 @@
 ```c++
 class Solution {
 public:
-    int minimumSize(vector<int>& nums, int b) {
+    int minimumSize(vector<int>& nums, int maxOperations) {
       	// bounary
         int l = 1, r = 1000000001;
         int ans = 0;
@@ -71,7 +71,7 @@ public:
                     oper += num/mid;
             }
             // check 
-            if (oper <= b) {
+            if (oper <= maxOperations) {
                 ans = mid;
                 r = mid;
             } else
