@@ -1,5 +1,7 @@
 # leetcode 分类
 
+- Array
+
 - Back Tracking
 
 - <a href = "https://github.com/jianglq6/leetcode/blob/master/classification/BinarySearch.md" target="_blank"> Binary Search <a>
