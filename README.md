@@ -1,6 +1,6 @@
 # leetcode 分类
 
-- Array
+- <a href = "https://github.com/jianglq6/leetcode/blob/master/classification/Array.md" target="_blank"> Array <a>
 
 - Back Tracking
 
