@@ -1,4 +1,8 @@
-# leetcode 分类
+# Algorithm Parcatice
+
+Some of my solutions to interesting or classic algorithm problems, just for fun :) 
+
+## Classification
 
 - <a href = "https://github.com/jianglq6/leetcode/blob/master/classification/Array.md" target="_blank"> Array <a>
 
